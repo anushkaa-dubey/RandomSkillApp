@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Random Skill a Week</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_history">History</string>
+    <string name="mark_completed">Mark as Completed</string>
+    <string name="skill_completed">Skill Completed!</string>
+    <string name="notification_channel_name">Weekly Skill Reminders</string>
+    <string name="notification_title">🌟 New Skill Ready!</string>
+    <string name="notification_text">Your new micro-skill for this week is waiting. Let\'s grow!</string>
+</resources>
